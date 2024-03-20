@@ -33,7 +33,7 @@
 
 ***If you like what I do, maybe consider buying me a coffee*** 🥺 👇
 
-<a href="https://www.buymeacoffee.com/ravindulak3"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" style="height: 35px !important; width: 120px !important;"></a>
+<a href="https://www.buymeacoffee.com/ravindulak3"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=ravindulak3&button_colour=BD5FFF&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 
 <h3 align="center">
